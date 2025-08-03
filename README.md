@@ -15,7 +15,7 @@ RetrievalQA pipeline with GPT-4 for contextual question answering
 
 Core RAG concepts in practice
 
-## 🛠Technologies Used
+## Technologies Used
 This solution integrates the following tools:
 
 requests + BeautifulSoup: Scrape HTML content and recursively visit child/internal links.
